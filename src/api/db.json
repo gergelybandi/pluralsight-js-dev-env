@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 65223438,
+      "firstName": "Kirstin",
+      "lastName": "Grant",
+      "email": "Lincoln18@yahoo.com"
+    },
+    {
+      "id": 85785559,
+      "firstName": "Michele",
+      "lastName": "Cormier",
+      "email": "Gennaro.Langosh@hotmail.com"
+    },
+    {
+      "id": 71177092,
+      "firstName": "Charlotte",
+      "lastName": "Willms",
+      "email": "Raphael.Emard@gmail.com"
+    }
+  ]
+}
